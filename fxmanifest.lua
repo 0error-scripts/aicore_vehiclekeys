@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'vehicle key management system'
-repository 'https://github.com/0error-scripts/aicore_vehiclekeys'
+repository 'https://github.com/aicore-fivem/aicore_vehiclekeys'
 version '1.0.3'
 
 ox_lib 'locale'
